@@ -6,11 +6,11 @@ import time
 os.system('clear')
 time.sleep(1)
 os.system('figlet Hack FB')
-print "----------------------------"
+print "============================"
 print "Author : Rafli"
 print "Youtube: Rafli gc"
 print "Github : https://github.com/report-set"
-print "----------------------------"
+print "============================"
 print
 time.sleep(1)
 print "[+] menu pilhan [+]"
